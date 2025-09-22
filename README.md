@@ -7,3 +7,5 @@ Template README.md
 - Tópico 1
 - Tópico 2
 - Tópico 3
+
+![GitHub watchers](https://img.shields.io/github/watchers/Joaovtrramos/Joaovtrramos)
