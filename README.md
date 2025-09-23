@@ -4,8 +4,8 @@ Template README.md
 <h3 align="center">Subtítulo</h3>
 <hr>
 
-- Tópico 1
-- Tópico 2
-- Tópico 3
+ Interesse em desenvolvimento de software e tecnologia
+ Cursando Técnico em Informática com foco em programação e redes
+ Buscando crescer na área e contribuir em projetos inovadores
 
 ![GitHub watchers](https://img.shields.io/github/watchers/Joaovtrramos/Joaovtrramos)
